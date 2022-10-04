@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PHP , node.js**
 
-- 📫 How to reach me **Twitter https://twitter.com.Olahappy2/**
+- 📫 How to reach me **Twitter https://twitter.com.Olahappy/**
 
 - ⚡ Fun fact **I love food and sleep**
 
